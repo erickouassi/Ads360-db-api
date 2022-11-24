@@ -41,30 +41,33 @@ _This example uses fetch, a modern built-in way to make HTTP requests with JavaS
   
   
 
-Method: GET: [https://ads360-db-api.vercel.app](https://ads360-db-api.vercel.app)
+Core Features
+-------------
+
+Method: GET: [https://ads360-db-api.vercel.app](https://ads360-db-api.vercel.app
 
 ✅ Get today text advert (11/24)
 
-👉 [https://ads360-db-api.vercel.app/v1/today_txt](.../v1/today_txt)
+👉 [.../v1/today_txt](https://ads360-db-api.vercel.app/v1/today_txt)
 
 ✅ Get This month text advert
 
-👉 [https://ads360-db-api.vercel.app/v1/month_txt](.../v1/month_txt)
+👉 [.../v1/month_txt](https://ads360-db-api.vercel.app/v1/month_txt)
 
 ✅ Get date (Thursday)
 
-👉 [https://ads360-db-api.vercel.app/v1/day_txt](.../v1/day_txt)
+👉 [.../v1/day_txt](https://ads360-db-api.vercel.app/v1/day_txt)
 
 ✅ Get date by Sunday or Monday ...  or Saturday.
 
-👉 [https://ads360-db-api.vercel.app/v1/monday_txt](.../v1/monday_txt)
+👉 [.../v1/monday_txt](https://ads360-db-api.vercel.app/v1/monday_txt)
 
 
 ✅ Get week number (1-53)
 
-👉 [https://ads360-db-api.vercel.app/v1/week_txt](.../v1/week_txt)
+👉 [.../v1/week_txt](https://ads360-db-api.vercel.app/v1/week_txt)
 
 
 ✅ Get randon text advert
 
-👉 [https://ads360-db-api.vercel.app/v1/random_txt](.../v1/random_txt)
+👉 [.../v1/random_txt](https://ads360-db-api.vercel.app/v1/random_txt)
