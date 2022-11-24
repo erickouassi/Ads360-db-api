@@ -1,5 +1,24 @@
 # Ads360-db-api
 
+Core Features
+-------------
+
+*   Self-hosting & it's Free!
+*   Advertising campaign:
+    *   Randon
+    *   Time of Day (Morning, Afternoon & Evening)
+    *   Daily
+    *   Weekly
+    *   Monthly
+*   Insert Any Code Anywhere on the Page
+*   Advertising Formats/Types:
+    *   Text/html Ads
+    *   Image Ads:
+        *   .png
+        *   .jpg
+        *   .gif
+    *   3rd Party Ads (JavaScript ads)
+*   No Databases, all client-side (just simple HTML, CSS & Javascript)
 
 General Usage
 -------------
