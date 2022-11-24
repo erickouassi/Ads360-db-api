@@ -44,7 +44,7 @@ _This example uses fetch, a modern built-in way to make HTTP requests with JavaS
 Core Features
 -------------
 
-Method: GET: [https://ads360-db-api.vercel.app](https://ads360-db-api.vercel.app
+Method: GET: [https://ads360-db-api.vercel.app](https://ads360-db-api.vercel.app)
 
 ✅ Get today text advert (11/24)
 
